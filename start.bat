@@ -1,0 +1,1 @@
+C:\Users\User\Desktop\qemu\qemu-system-i386 -kernel kernel-5
